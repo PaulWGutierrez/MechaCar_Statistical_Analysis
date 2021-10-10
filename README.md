@@ -1,7 +1,7 @@
 # MechaCar Statistical Analysis
 
 ## Linear Regression to Predict
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 #### The variables/coefficients that provided a non-random amount of variance were ground clearance and mpg as indicated in image with 3 asterisks on the "Coefficients:" table.
 - Is the slope of the linear model considered to be zero? Why or why not?
 #### No, the slope of the linear model is not considered to be zero because the Intercept is at 17.4 and the vehicle weight is at -0.0002, as well as the p-value is 6.712e-11 which is smaller than the significance level of 0.05%.
