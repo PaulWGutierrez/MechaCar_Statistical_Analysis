@@ -8,3 +8,7 @@
 - #### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   #### This linear model predicts mpg of MechaCar prototypes effectively because the Multipe R-squared is 0.711 which indicates    there is a correct outcome of about 71%.
 <img width="865" alt="Linear Regression to Predict MPG" src="https://user-images.githubusercontent.com/86431959/136709138-7c8ab055-d029-4c64-8cb1-d1d0c4d51136.png">
+## Summary Statistics on Suspension Coils
+- #### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+  Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+  #### 
