@@ -14,6 +14,7 @@
   #### Reviewing the results in the total summary the varience is about 62 PSI which is obviously below 100 pounds per square inch. With that said, when observing individually the summary of the lots the variences are different. Lot 1 has the varience of about 0.98 and lot 2 of about 7.47 which is way below 100 PSI. Lot 3 is of concern because it has a varience of about 170.29 which is over the limit of 100 PSI. With this information lot 3 vehicles need to be revised and have the necessary alternations done.
 ### Total Summary
 <img width="382" alt="Total_Summary_Suspension_Coil" src="https://user-images.githubusercontent.com/86431959/136714848-196e1dd1-beee-4327-868b-09b9b55c9869.png">
+
 ### Lot Summary
 <img width="530" alt="Lot_Summary_Suspension" src="https://user-images.githubusercontent.com/86431959/136714903-5798aaef-56f5-40a1-a943-d416cda5636d.png">
 
